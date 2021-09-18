@@ -40,7 +40,7 @@ Took some help from these resources
 # Glimpse of Our Work:-
 
 ## User Login Page:-
-Users can't visit any page before login and after logout. Even users can't access any page with end points to a url.
+Users can't visit any page before login and after logout. Even users can't access any page by adding a end points to an url.
 
 ![login Page](https://github.com/pankajganjale/ev_monitoring/blob/master/output_images/user_login.PNG?raw=true)
 
