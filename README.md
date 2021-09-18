@@ -76,7 +76,7 @@ On this page, users can see a live location of their vehicle. They can use map f
 
 
 ## Contact Page:-
-Users can contact admin using this contact form. As soon as user submit this form, it will be display on Admin Panel.
+Users can contact admin using this contact form. As soon as user submit this form, it will be displayed on Admin Panel.
 
 ![login Page](https://github.com/pankajganjale/ev_monitoring/blob/master/output_images/contact.PNG?raw=true)
 
