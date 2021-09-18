@@ -7,8 +7,8 @@ This web application monitors live Electric Vehicle data such as battery percent
 3. Open terminal with parent folder and run following command ```python manage.py runserver```
 
 # Features:-
-1. Users or admin has to login with valid user id and password as a authentication is powerful because of some Django feature.
-2. Users can track their live vehicle data such as vehicle speed, battery temperature, battery percentage, etc.
+1. Users or admin has to login with valid user id and password as a authentication is powerful because of some Django features.
+2. Users can track their live vehicle data such as a vehicle speed, battery temperature, battery percentage, etc.
 3. Users can watch vehicle's live location.
 4. Users can calculate distance between two locations and also can use map.
 5. Users can report any issue to admin using contact form.
