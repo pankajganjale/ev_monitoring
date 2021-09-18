@@ -58,7 +58,7 @@ On this page, admin can track all the details of users such as their vehicle det
 
 
 ## Home Page:-
-On this page, users can see only their data. Even car number and name also change according to login details.
+On this page, users can see only their data. Even car number and name also changes according to login details.
 
 ![login Page](https://github.com/pankajganjale/ev_monitoring/blob/master/output_images/home.PNG?raw=true)
 
