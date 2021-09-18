@@ -39,35 +39,48 @@ Took some help from these resources
 
 # Glimpse of Our Work:-
 
-## Login Page:-
-![login Page](https://github.com/pankajganjale/bluemercury/blob/master/image/login.PNG?raw=true)
+## User Login Page:-
+Users can't visit any page before and after login. Even users can't access any page with end points to a url.
+
+![login Page](https://github.com/pankajganjale/ev_monitoring/blob/master/output_images/user_login.PNG?raw=true)
+
+
+## Admin Login Page:-
+This authentication is also similar to the user login authentication. Only valid user can login.
+
+![login Page](https://github.com/pankajganjale/ev_monitoring/blob/master/output_images/admin_login.PNG?raw=true)
+
+
+## Admin Panel Page:-
+On this page, admin can track all the details of users such as their vehicle details, vehicle's live data, queries raised by users, vehicle's past location, etc.
+
+![login Page](https://github.com/pankajganjale/ev_monitoring/blob/master/output_images/admin_panel.PNG?raw=true)
 
 
 ## Home Page:-
-![login Page](https://github.com/pankajganjale/bluemercury/blob/master/image/home1.PNG?raw=true)
+On this page, users can see only their data. Even car number and name also change according to login details.
+
+![login Page](https://github.com/pankajganjale/ev_monitoring/blob/master/output_images/home.PNG?raw=true)
 
 
-## Category Page:-
-![login Page](https://github.com/pankajganjale/bluemercury/blob/master/image/Category.PNG?raw=true)
+## Sensor Data on Home Page:-
+Here users can track their vehicle's live data such as vehicles's speed, battery percentage and battery temperature, etc.
+
+![login Page](https://github.com/pankajganjale/ev_monitoring/blob/master/output_images/sensor.PNG?raw=true)
 
 
-## Product Page:-
-![login Page](https://github.com/pankajganjale/bluemercury/blob/master/image/product.PNG?raw=true)
+## Location Page:-
+On this page, users can see a live location of their vehicle. They can use map feature and calculate distance between two places.
+
+![login Page](https://github.com/pankajganjale/ev_monitoring/blob/master/output_images/location.PNG?raw=true)
 
 
-## Cart Page:-
-![login Page](https://github.com/pankajganjale/bluemercury/blob/master/image/cart.PNG?raw=true)
+## Contact Page:-
+Users can contact admin using this contact form. As soon as user submit this form, it will be display on Admin Panel.
 
-
-## Shipping Page:-
-![login Page](https://github.com/pankajganjale/bluemercury/blob/master/image/shipping.PNG?raw=true)
-
-
-## Payment Page:-
-![login Page](https://github.com/pankajganjale/bluemercury/blob/master/image/payment.PNG?raw=true)
+![login Page](https://github.com/pankajganjale/ev_monitoring/blob/master/output_images/contact.PNG?raw=true)
 
 
 ## Output of Project:- 
-1. [Video Presentation](https://drive.google.com/file/d/1MpkHS77w3Kb4EOGvIW_RbpEDHSq9_WC_/view?usp=sharing)
-2. [GitHub Deployment](https://pankajganjale.github.io/bluemercury/)
+[Video Presentation](https://drive.google.com/file/d/10fZjMKPF1-vF0VAHafxzVNVtwUvKvpi5/view?usp=sharing)
 
