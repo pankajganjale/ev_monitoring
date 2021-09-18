@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+{% block title %}Contact
+{% endblock title %}
+
+{% block body %}
+<div class="container">
+    <img src="/static/img/contact.jfif" class="d-block w-100 my-4">
+</div>
+
+<br>
+
+<h1 class="text-center">Contact Us</h1>
+
+<br>
+
+<div class="container">
+    <form method="post" action="/contact">
+        {% csrf_token %}
+        <div class="mb-3">
+            <label for="name" class="form-label">Full Name</label>
+            <input type="text" class="form-control" id="name" name="name" placeholder="Enter your Name">
+        </div>
+        <div class="mb-3">
+            <label for="email" class="form-label">Email address</label>
+            <input type="email" class="form-control" id="email" name="email" placeholder="Enter your Email">
+            <div class="form-text">We'll never share your Email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="phone" class="form-label">Phone Number</label>
+            <input type="number" class="form-control" id="phone" name="phone" placeholder="Enter your Phone Number">
+            <div class="form-text">We'll never share your Phone Number with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="text" class="form-label">Why do you want to Contact Us?</label>
+            <input type="text" class="form-control" id="text" name="desc" placeholder="Enter your Reason">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+{% endblock body %}
