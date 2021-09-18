@@ -1,5 +1,5 @@
 # Electric Vehicle Monitoring
-This web application monitors live Electric Vehicle data such as battery percentage, battery temperature, speed, location, etc. The authentication system of this website is powerful because of some Django features.
+This web application monitors live Electric Vehicle data such as battery percentage, battery temperature, speed, location, etc. The authentication system of this website is powerful because of some Django features. I used ThinkSpeak API to show live data and geoip API for location feature.
 
 ## To start our Project on your Machine:-
 1. Create a new folder.
